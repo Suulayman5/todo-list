@@ -1,6 +1,6 @@
-const array = [{name: 'cook food',
+const array = [{name: 'Cook food',
 dueDate: '2024-05-05'},{
-name: 'chop food',
+name: 'Chop food',
 dueDate: '2023 - 06-06'}]
 
 displayList()
